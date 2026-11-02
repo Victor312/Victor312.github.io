@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Victor312.github.io/sitemap.xml
